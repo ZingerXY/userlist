@@ -1,0 +1,46 @@
+#main {
+	width: 900px;
+	padding: 15px;
+    margin: 50px auto;
+	border: 1px solid;
+	background-color: #efebde;
+}
+#url {
+	width: 350px;
+}
+.box {
+	padding: 5px;
+}
+#shortUrl {
+	font-size: 25px;
+}
+.list {
+	height: 208px;
+	width: 300px;
+	border: 1px solid;
+	overflow: auto;
+	background-color: white;
+}
+.list ul {
+	padding: 5px;
+	margin: 0px;
+	list-style: none;	
+}
+.table {
+    border-collapse: collapse;
+    margin: auto;
+	width: 800px;
+}
+.table td ,th {
+    border: 1px solid black;
+    padding: 2px 6px;
+    text-align: center;
+}
+#userlist {
+	margin: auto;
+    width: 800px;
+}
+#scheck {
+	width: 300px;
+	margin: auto;
+}
